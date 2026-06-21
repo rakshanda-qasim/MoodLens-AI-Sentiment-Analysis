@@ -1,0 +1,11 @@
+User Input
+    ↓
+Text Preprocessing
+    ↓
+Feature Extraction
+    ↓
+Sentiment Model
+    ↓
+Prediction
+    ↓
+Streamlit Interface
